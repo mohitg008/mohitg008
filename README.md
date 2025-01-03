@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Gaikwad</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align='centre' src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
+<img align="centre" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
 
 
 - 📫 How to reach me **mohitgaikwadxp@gmail.com**
